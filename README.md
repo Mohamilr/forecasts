@@ -1,9 +1,9 @@
-# cli-climate
+# forecasts
 
 <img src="https://res.cloudinary.com/project-s/image/upload/v1613503859/climate_cli_search_j3cngj.png" />
 
 ## Description
-The climate cli is a nodejs cli that takes parameters from the terminal and makes a fetch request to [openweather current api](https://openweathermap.org/current) using [axios](https://www.npmjs.com/package/axios) to give the current weather condition of a place in different temperature units.
+Forecasts is a nodejs cli that takes parameters from the terminal and makes a fetch request to [openweather current api](https://openweathermap.org/current) using [axios](https://www.npmjs.com/package/axios) to give the current weather condition of a place in different temperature units.
 ## Installation
 `npm i -g forecasts`
 
