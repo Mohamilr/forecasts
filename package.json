@@ -1,6 +1,6 @@
 {
   "name": "forecasts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The climate cli is a nodejs cli that takes parameters from the terminal and makes a fetch request to openweather current api using axios to give the current weather condition of a place in different temperature units.",
   "main": "app.js",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mohamilr/climate-cli.git"
+    "url": "git+https://github.com/Mohamilr/forecasts.git"
   },
   "keywords": [
     "climate",
@@ -25,9 +25,9 @@
   "author": "Mohammed Ibrahim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mohamilr/climate-cli/issues"
+    "url": "https://github.com/Mohamilr/forecasts/issues"
   },
-  "homepage": "https://github.com/Mohamilr/climate-cli#readme",
+  "homepage": "https://github.com/Mohamilr/forecasts#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
