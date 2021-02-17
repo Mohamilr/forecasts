@@ -1,6 +1,6 @@
 {
   "name": "forecasts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The climate cli is a nodejs cli that takes parameters from the terminal and makes a fetch request to openweather current api using axios to give the current weather condition of a place in different temperature units.",
   "main": "app.js",
   "bin": {
